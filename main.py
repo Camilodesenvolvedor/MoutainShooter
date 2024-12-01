@@ -1,5 +1,5 @@
 import pygame
-
+print('camilo')
 print('Setup Start')
 pygame.init()
 window = pygame.display.set_mode(size=(600, 480))
